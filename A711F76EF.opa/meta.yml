@@ -1,0 +1,19 @@
+id: A711F76EF
+title: Prayer to Khyentse Wangpo, Kongtrul and Chokgyur Lingpa
+type: translation
+pechas:
+- IBF222245
+- I854EDBF4
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:35:46.132254
+  last_modified_at: 2023-01-04 12:35:46.132264
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBF222245/BD8B: 3C72
+  I854EDBF4/CC5C: 3C72
